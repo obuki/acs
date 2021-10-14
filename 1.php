@@ -1,5 +1,5 @@
 <?php 
-echo "obuki " , time();
+echo "obuki " , time(), "  - lelelelele";
 
 
 

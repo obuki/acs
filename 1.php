@@ -1,4 +1,2 @@
 <?php 
-echo time();
-echo "aljshd";
-echo "asd";
+echo "time: ",time();

@@ -1,2 +1,2 @@
 <?php 
-echo "time: ",time();
+echo "time: ",time(), "budur";

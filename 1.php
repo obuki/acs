@@ -1,5 +1,5 @@
 <?php 
-echo "obuki " , time(), "  - lelelelele";
+echo "test 123";
 
 
 
